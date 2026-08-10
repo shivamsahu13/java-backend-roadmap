@@ -1,0 +1,11 @@
+package com.shivam.day05;
+
+public class Methods {
+    public static void main(String[] args){
+        sayHello();
+    }
+
+    public static void sayHello(){
+        System.out.println("Hello GPT");
+    }
+}
